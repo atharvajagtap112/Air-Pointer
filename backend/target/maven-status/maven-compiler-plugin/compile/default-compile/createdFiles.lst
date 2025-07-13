@@ -1,0 +1,4 @@
+com\atharva\airpointerbe\config\WebSocketConfig.class
+com\atharva\airpointerbe\AirPointerBeApplication.class
+com\atharva\airpointerbe\controller\MotionController.class
+com\atharva\airpointerbe\Model\MotionData.class
